@@ -1,0 +1,3 @@
+# cricket
+A BASIC HTML CSS PROJECT DONE BEFORE THE COMMENCEMENT OF THE ICC WT20 CHAMPIONSHIPS 2021
+https://targithu.github.io/cricket/index.html
